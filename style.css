@@ -1,0 +1,34 @@
+button.organization-button {
+    padding: 50px;
+  }
+  #bodyid {
+    max-width: 1000px;
+    margin: auto;
+  }
+
+  button.organization-button {
+    background-color:brown;
+    padding: 70px;
+    margin: 10px
+  }
+
+  .my-buttons-row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .intro {
+    text-align: center;
+    margin: 80px
+  }
+
+  section.hero {
+    min-height: 500px;
+    background-position: center;
+    background-image: url("cover.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
