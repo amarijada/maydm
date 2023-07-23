@@ -1,34 +1,47 @@
 button.organization-button {
-    padding: 50px;
-  }
-  #bodyid {
-    max-width: 1000px;
-    margin: auto;
-  }
+  padding: 50px;
+}
+#bodyid {
+  max-width: 1000px;
+  margin: auto;
+}
 
-  button.organization-button {
-    background-color:brown;
-    padding: 70px;
-    margin: 10px
-  }
+button.organization-button {
+  background-color:brown;
+  padding: 70px;
+  margin: 10px;
+  width: 315px;
 
-  .my-buttons-row {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
+}
 
-  .intro {
-    text-align: center;
-    margin: 80px
-  }
+.my-buttons-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 250px;
+  max-width: 700px;
+  margin: auto;
+}
 
-  section.hero {
-    min-height: 500px;
-    background-position: center;
-    background-image: url("cover2.jpg");
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   }
+.intro {
+  text-align: center;
+  margin: 80px;
+  
+}
+
+.about {
+  text-align: center;
+  padding: 120px;
+  background-color:#ebe7df;
+  margin-top: 170px;
+}
+
+section.hero {
+  min-height: 500px;
+  background-position: center;
+  background-image: url("cover2.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
